@@ -12,6 +12,7 @@
 4. Created a public GitHub repository
 5. Cloned the repository and opened it in Cursor
 
-## Issues Encountered- Could not find the Git Clone command in Cursor — researched the issue 
+## Issues Encountered 
+Could not find the Git Clone command in Cursor — researched the issue 
   and found that Git was not installed on my computer. 
   Downloaded and installed Git, which fixed the problem.
